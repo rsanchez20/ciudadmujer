@@ -1,0 +1,12 @@
+body{
+border:8px solid;
+margin-top: 15px;
+margin-left: 15px;
+margin-right: 15px;
+border-color: #3CB371;
+}
+img{
+border-style: dashed;
+border-width: 13px;
+border-color: #FFD700 #FF1493 #FF6347 #483D8B;
+}
